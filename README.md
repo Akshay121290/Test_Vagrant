@@ -15,4 +15,4 @@ This repo holds test cases for RCB Team to check if the players list is valid or
 # Configure project in Eclipse
 * Configure Project to Maven Project
 * Confugure Project as Cucumber Project
-* Execute Project as Maven Install
+* Execute Project with Goal Maven Install
