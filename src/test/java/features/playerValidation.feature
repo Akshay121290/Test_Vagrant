@@ -1,5 +1,5 @@
 @regression
-Feature: Validating if RCB team player's list is valid not
+Feature: Validation of RCB team player's list
 
   Scenario: Validate that only 4 foreign players are present in team
     Given I read the "TeamRCB.json" payload
