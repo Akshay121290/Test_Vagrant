@@ -16,3 +16,4 @@ This repo holds test cases for RCB Team to check if the players list is valid or
 * Configure Project to Maven Project
 * Confugure Project as Cucumber Project
 * Execute Project with Goal Maven Install
+* Check the target Folder, you will see cucumber-reports.html file. Open it in chrome you will see the report of the tests
